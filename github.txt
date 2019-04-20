@@ -1,0 +1,7 @@
+china7799@hotmail.com
+110119aA
+-----------------------------
+ssh-keygen -t rsa -C "china7799@hotmail.com"
+-----------------------------
+git config --global user.name "rn china7799"
+git config --global user.email "china7799@hotmail.com"
